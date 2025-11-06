@@ -1,0 +1,5 @@
+flask
+pandas
+spacy
+reportlab
+python-docx
